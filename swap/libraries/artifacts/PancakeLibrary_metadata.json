@@ -1,0 +1,54 @@
+{
+	"compiler": {
+		"version": "0.6.6+commit.6c089d02"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"methods": {}
+		},
+		"userdoc": {
+			"methods": {}
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"PancakeRouter/libraries/PancakeLibrary.sol": "PancakeLibrary"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": true,
+			"runs": 500
+		},
+		"remappings": []
+	},
+	"sources": {
+		"PancakeRouter/interfaces/IPancakePair.sol": {
+			"keccak256": "0xc432aeec5c038f15c3670ee6128ce41dbfa1f7a9979dc37b967213436ae77b33",
+			"urls": [
+				"bzz-raw://3bb06c5526b4691a4128f4f8f6a2ecca9af5f149848a2ec4cb60bd775d94568b",
+				"dweb:/ipfs/QmRYv5qt1TzSEPYhSXvfejncnGwZV5o6twDrTmtVg2Rx74"
+			]
+		},
+		"PancakeRouter/libraries/PancakeLibrary.sol": {
+			"keccak256": "0x67275224f4fd575231b6f368b95b902c954cf06e087c99b486ffbf54ad814819",
+			"urls": [
+				"bzz-raw://43c3e07863b1951de0005525f0ff100d30c379a275376ce0fa6f3a8fbe4d0a24",
+				"dweb:/ipfs/QmQbLiHzFMCxRdt16UHJwGLc9ReUjrgf5YTisquruPHxkx"
+			]
+		},
+		"PancakeRouter/libraries/SafeMath.sol": {
+			"keccak256": "0xa27791b2b2aa53f8bc9f00a7955443cdfe37cc8d9843e0a24236f2dbcd35f5bf",
+			"urls": [
+				"bzz-raw://8441a43bb4956b4ce0ffbf5d02773035ce96acf9a9ada0b77d46df83960e3387",
+				"dweb:/ipfs/QmfAFjB1kiZNGg4UmzLKUvMxivLnTRNkK3uhrcf1ZvHbgF"
+			]
+		}
+	},
+	"version": 1
+}
